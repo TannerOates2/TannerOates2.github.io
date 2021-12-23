@@ -1,0 +1,123 @@
+html {
+  cursor: crosshair;
+  text-rendering: optimizeLegibility;
+  text-size-adjust: 100%;
+  display: flex;
+  flex-direction: column;
+}
+body {
+  line-height: .5;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif, "Space Mono";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url(bg.PNG) no-repeat center center fixed;
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
+
+  
+  
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.4;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0px;
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+h4 {
+  margin: 0.83em 0px;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.About {
+  position: absolute;
+  top: 30%;
+  left: 3%;
+  
+  margin: 0 auto;
+  width: 80%;
+  height: 50%;
+
+  letter-spacing: 1px;
+  font-size: 1rem;
+  
+}
+
+.Name {
+  color: aliceblue;
+  margin: 0;
+  font-family:monospace;
+  font-stretch: expanded;
+}
+
+.Job {
+  margin-top: -0.5em;
+  color: #15f039;
+  text-size-adjust: 100%;
+  font-size: 1rem;
+  font-family: monospace;
+}
+
+.About-me {
+  margin-top: 1.4em;
+  color: #888f89;
+  font-family: monospace;
+  font-stretch: expanded;
+}
+
+.Link-parent {
+  display: inline-flex;
+  align-items: center;
+  font-size: 1rem;
+  margin: 4px;
+  font-family: monospace;
+
+
+}
+.Link-button {
+  color: #61dafb;
+  margin: 5px;
+  text-decoration: none;
+  display: inline-block;
+  background-color: transparent;
+  font-family: monospace;
+  
+  
+  
+}
+
+.Link-button:hover {
+  box-shadow: 0px 0px 10px 0px rgb(250, 249, 249);
+  cursor: crosshair;
+}
+
+
+.img {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.Svg {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
