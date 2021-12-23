@@ -34,8 +34,6 @@ function MyApp() {
   );
 }
 
-
-
 const el = <MyApp />;
 ReactDOM.render(
   el,
