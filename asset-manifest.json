@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TannerOates2.github.io/static/css/main.dad6b905.css",
+    "main.js": "/TannerOates2.github.io/static/js/main.ad3566e3.js",
+    "static/js/787.346528c1.chunk.js": "/TannerOates2.github.io/static/js/787.346528c1.chunk.js",
+    "static/media/bg.PNG": "/TannerOates2.github.io/static/media/bg.1b2364da07a9587c8073.PNG",
+    "index.html": "/TannerOates2.github.io/index.html",
+    "static/media/logo.svg": "/TannerOates2.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.dad6b905.css.map": "/TannerOates2.github.io/static/css/main.dad6b905.css.map",
+    "main.ad3566e3.js.map": "/TannerOates2.github.io/static/js/main.ad3566e3.js.map",
+    "787.346528c1.chunk.js.map": "/TannerOates2.github.io/static/js/787.346528c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dad6b905.css",
+    "static/js/main.ad3566e3.js"
+  ]
+}
