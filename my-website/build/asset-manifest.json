@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.d26ac040.css",
-    "main.js": "./static/js/main.a07f69f3.js",
-    "static/js/787.346528c1.chunk.js": "./static/js/787.346528c1.chunk.js",
-    "static/media/bg.PNG": "./static/media/bg.1b2364da07a9587c8073.PNG",
-    "index.html": "./index.html",
-    "main.d26ac040.css.map": "./static/css/main.d26ac040.css.map",
-    "main.a07f69f3.js.map": "./static/js/main.a07f69f3.js.map",
-    "787.346528c1.chunk.js.map": "./static/js/787.346528c1.chunk.js.map"
+    "main.css": "/TannerOates2.github.io/static/css/main.2c9b4b75.css",
+    "main.js": "/TannerOates2.github.io/static/js/main.c3e95c18.js",
+    "static/js/787.346528c1.chunk.js": "/TannerOates2.github.io/static/js/787.346528c1.chunk.js",
+    "static/media/bg.PNG": "/TannerOates2.github.io/static/media/bg.1b2364da07a9587c8073.PNG",
+    "index.html": "/TannerOates2.github.io/index.html",
+    "main.2c9b4b75.css.map": "/TannerOates2.github.io/static/css/main.2c9b4b75.css.map",
+    "main.c3e95c18.js.map": "/TannerOates2.github.io/static/js/main.c3e95c18.js.map",
+    "787.346528c1.chunk.js.map": "/TannerOates2.github.io/static/js/787.346528c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d26ac040.css",
-    "static/js/main.a07f69f3.js"
+    "static/css/main.2c9b4b75.css",
+    "static/js/main.c3e95c18.js"
   ]
 }
