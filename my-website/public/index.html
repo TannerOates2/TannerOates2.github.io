@@ -17,6 +17,13 @@
   	</head>
   	<body>
 		<noscript>You need to enable JavaScript to run this app.</noscript>
+		<!--if browser is safari-->
+		<script>
+			if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+				alert("You are using Safari. This site will not work properly in Safari. Please use Chrome or Firefox.");
+				<div id = "root"></div>
+			}
+		</script>
       	<div id="root"></div>
       	<svg version="1.1" id="febonacci" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" 
 			viewBox="0 0 3770 2330" enable-background="new 0 0 3770 2330" xml:space="preserve">
